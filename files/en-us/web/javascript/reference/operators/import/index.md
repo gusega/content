@@ -17,7 +17,7 @@ Unlike the [declaration-style counterpart](/en-US/docs/Web/JavaScript/Reference/
 import(moduleName)
 ```
 
-The `import()` call is a syntax that closely resembles a function call, but `import` itself is a keyword, not a function. You cannot alias it like `const myImport = import`, which will throw a {{jsxref("SyntaxError")}}.
+The `import()` call uses a syntax that closely resembles a function call, but `import` itself is a keyword, not a function. You cannot alias it like `const myImport = import`, which will throw a {{jsxref("SyntaxError")}}.
 
 ### Parameters
 
